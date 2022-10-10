@@ -4,33 +4,43 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:gravity="center"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-
-
-    <ImageButton
-        android:id="@+id/map"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/map" />
-
-    <ImageButton
+    <Button
         android:id="@+id/community"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/community"/>
+        android:drawableLeft="@drawable/community"
+        android:text="자취인 커뮤니티"/>
 
-    <ImageButton
+    <Button
+        android:id="@+id/checklist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/checkbox"
+        android:text="집안일 체크리스트"/>
+
+    <Button
+        android:id="@+id/map"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/map"
+        android:text="편의시설지도"/>
+
+    <Button
         android:id="@+id/safety"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/safety"/>
+        android:drawableLeft="@drawable/safety"
+        android:text="여성 안심"/>
 
-    <ImageButton
+    <Button
         android:id="@+id/mypage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/mypage" />
+        android:drawableLeft="@drawable/mypage"
+        android:text="마이페이지"/>
 
 </LinearLayout>
