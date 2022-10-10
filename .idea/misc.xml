@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.11512717536813923" />
-        <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout-w936dp/activity_login.xml" value="0.10655737704918032" />
+        <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.4466666666666667" />
+        <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout-w1240dp/activity_login_java.xml" value="0.11512717536813923" />
+        <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout-w936dp/activity_login.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout-w936dp/activity_login_java.xml" value="0.10655737704918032" />
         <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout/activity_checklist.xml" value="0.14130434782608695" />
         <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout/activity_community.xml" value="0.14130434782608695" />
         <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout/activity_login.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout/activity_login_java.xml" value="0.14130434782608695" />
         <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
         <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout/activity_map.xml" value="0.14130434782608695" />
         <entry key="..\:/AndroidStudio/2022UNIPROJ/mobileprogramming_IAM/app/src/main/res/layout/activity_mypage.xml" value="0.14130434782608695" />
